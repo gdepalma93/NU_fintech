@@ -1,0 +1,12 @@
+Financial Planner
+
+Financial reporting tool that connects customers' banking and investment accounts and automatically refreshes the data and charts. This tool also simulates retirement investment projections utilizing monte carlo simulations. 
+
+This tool accomplishes the following
+    - Budget Analysis with Plaid
+    - Monte Carlo powered Retirement Planner 
+    - Financial Reports
+
+Files
+    - Budget Analysis Notebook
+    - Retirment Planner
