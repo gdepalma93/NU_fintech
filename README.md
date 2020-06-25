@@ -4,10 +4,13 @@
     1. Portfolio Projects
     2. Homework Projects and Learnings
 
-## Highlighted Projects 
-    1. Quantitative Trading System
-    2. ML-Timeseries Analysis
-    3. StartUp Analysis
+## Highlighted Portfolio Projects 
+    1. Quantitative Trading System (algorithmic trading, API, python)
+    
+## Highlighted Homework Projects and Learnings
+    1. Start Up Analysis (financial programming, financial modeling, pandas)
+    2. Financial Planning (financial programming, financial modeling, pandas, API)
+    3. ML- Timeseries Analysis (Statistical Modeling, Linear Regression, Price Prediction)
     
     
 ## Skills Gained
