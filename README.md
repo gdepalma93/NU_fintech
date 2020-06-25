@@ -54,11 +54,11 @@
     - Ganache
     
     
-## Social
+## Socials
 
-[website](grantdepalma.com)
-[Medium](https://medium.com/@grantdepalma)
-[LinkedIn](https://www.linkedin.com/in/grant-depalma-159042167/)
-[IG](https://www.instagram.com/grantdepalma/)
+[website](grantdepalma.com)  
+[Medium](https://medium.com/@grantdepalma)  
+[LinkedIn](https://www.linkedin.com/in/grant-depalma-159042167/)  
+[IG](https://www.instagram.com/grantdepalma/)  
     
 
