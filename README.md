@@ -8,10 +8,10 @@
     1. Quantitative Trading System (algorithmic trading, API, python)
     
 ## Highlighted Homework Projects and Learnings
-    1. Start Up Analysis (financial programming, financial modeling, pandas)
+    1. ML- Timeseries Analysis (Statistical Modeling, Linear Regression, Price Prediction)
     2. Financial Planning (financial programming, financial modeling, pandas, API)
-    3. ML- Timeseries Analysis (Statistical Modeling, Linear Regression, Price Prediction)
-    
+    3. Start Up Analysis (financial programming, financial modeling, pandas)
+    4. Market Research (FinTech Research)
     
 ## Skills Gained
 
