@@ -18,7 +18,7 @@ In this assignment, we will test a variety of time-series tools to predict futur
     
 ### Time Series Analysis
 #### Analysis Process
-    1.Decompose using a Hodrick-Prescott Filter (Decompose the Settle price into trend and noise).
+    1. Decompose using a Hodrick-Prescott Filter (Decompose the Settle price into trend and noise).
     2. Forecast Returns using an ARMA Model.
     3. Forecast the Settle Price using an ARIMA Model.
     4. Forecast Volatility with GARCH.
