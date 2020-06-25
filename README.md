@@ -3,8 +3,6 @@
 ## Repo Org
     1. Portfolio Projects
     2. Homework Projects and Learnings
-    3. Practice
-    4. Career Development
 
 ## Highlighted Projects 
     1. Quantitative Trading System
