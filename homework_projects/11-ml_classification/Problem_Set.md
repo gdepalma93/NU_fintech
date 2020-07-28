@@ -6,21 +6,33 @@ Auto loans, mortgages, student loans, debt consolidation ... these are just a fe
 
 In this Problem Set, you will build and evaluate several machine-learning models to predict credit risk using free data from LendingClub. Credit risk is an inherently imbalanced classification problem (the number of good loans is much larger than the number of at-risk loans), so you will need to employ different techniques for training and evaluating models with imbalanced classes. 
 
-Files
-    - Resources
-        - Lending Club Loans Data
-    - Starter Files
+### Files
+    - Problem_Set
+    - starter_files
         - Resampling Notebook
         - Ensemble Notebook
-    - Solutions
+        - Lending Club Loans Data
+    - solutions
         - Resampling Solution
         - Ensemble Solution
+        - Lending Club Loans Data
+    - guides
+        - student guide
+        - machine learning environment setup
 
-Libraries
-    - Scikit-learn
-    - imbalanced learn
-    
-ML Techniques
+### Libraries
+    - ML Libraries
+        - Scikit-learn
+        - imbalanced learn
+    - Data Science Libraries
+        - pandas
+        - numpy
+        - collections
+        - pathlib
+        - warnings
+
+   
+### ML Techniques
     - Resampling
         - Naive Random Oversampling 
         - SMOTE Oversampling
@@ -28,12 +40,12 @@ ML Techniques
         - SMOTEENN - Combination of Over and Under Sampling
     - Ensemble Learning
     
-ML Models
+### ML Models
     - logistic regression classifier
     - balanced random forest classifier
     - easy ensemble AdaBoost classifier
     
-Outputs
+### Outputs
     - balanced accuracy score
     - confusion matrix
     - imbalance classification report
